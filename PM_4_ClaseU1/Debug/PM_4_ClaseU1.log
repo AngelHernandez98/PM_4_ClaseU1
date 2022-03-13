@@ -1,0 +1,3 @@
+﻿  Assembling N3_Variables_1.asm...
+N3_Variables_1.asm(35): error A2008: syntax error : varTest_3
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: El comando "ml.exe /c /nologo /Zi /Fo"Debug\N3_Variables_1.obj" /Fl"PM_4_ClaseU1.lst" /I "C:\Irvine" /W3 /errorReport:prompt  /TaN3_Variables_1.asm" salió con el código 1.
